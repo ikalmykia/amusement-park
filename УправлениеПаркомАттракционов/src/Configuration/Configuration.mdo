@@ -58,6 +58,7 @@
   <commonModules>CommonModule.НомераТелефоновКлиентСервер</commonModules>
   <commonModules>CommonModule.Пользователи</commonModules>
   <constants>Constant.МаксимальнаяДоляОплатыБаллами</constants>
+  <constants>Constant.Тест0146</constants>
   <commonForms>CommonForm.МониторРуководителя</commonForms>
   <catalogs>Catalog.Аттракционы</catalogs>
   <catalogs>Catalog.ВидыАттракционов</catalogs>
